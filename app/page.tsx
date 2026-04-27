@@ -12,6 +12,8 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-bold leading-10 tracking-tight text-white dark:text-zinc-50">
             Hola, soy Nahir y estoy practicando el uso de git y github
           </h1>
+
+          <h6>Probando manejo de ramas</h6>
         </div>
       </main>
     </div>
