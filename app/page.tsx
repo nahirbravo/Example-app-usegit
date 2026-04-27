@@ -13,7 +13,9 @@ export default function Home() {
             Hola, soy Nahir y estoy practicando el uso de git y github
           </h1>
 
-          <h6>Probando manejo de ramas</h6>
+          <h6 className="max-w-xs text-2xl items-center gap-6 text-white">
+            Probando manejo de ramas
+          </h6>
         </div>
       </main>
     </div>
