@@ -14,7 +14,7 @@ export default function Home() {
           </h1>
 
           <h6 className="max-w-xs text-2xl items-center gap-6 text-white">
-            Probando manejo de ramas
+            Probando manejo de ramas y creacion de pull requests
           </h6>
         </div>
       </main>
